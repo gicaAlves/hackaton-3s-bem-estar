@@ -9,7 +9,11 @@ A área de gestão de pessoas sugeriu a nós, uma aplicação para auxiliar no f
 
 ## Desenvolvido por
 Cyro Brandão Alvares
+<br>
 Gica - Giovanna Alves 
+<br>
 Nathan Seixeiro
+<br>
 Pedro Araujo
+<br>
 Sabrina Santos 
